@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Haruma
+- 👀 I’m interested in isekai anime, especially TenSura, That Time I Got Reincarnated as a Slime Movie
+- 🌱 I’m currently learning NodeJS, Python3, TypeScript,...
+- 💞️ I’m looking to collaborate on next year
+- 📫 How to reach me harumascaremath@gmail.com
